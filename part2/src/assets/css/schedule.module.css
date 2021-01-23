@@ -1,0 +1,71 @@
+.header {
+    margin-top:80px;
+    margin-bottom:25px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    float:center;
+    text-align: center;
+}
+
+body {
+    padding: 15px 15px;
+}
+
+.schedule {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    margin-top: 3em;
+}
+
+.schedule td,
+.schedule thead {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.schedule tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.schedule tbody tr:hover {
+    background-color: #ddd;
+}
+
+.schedule thead {
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #71F2E5;
+    color: white;
+}
+
+.day {
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.alpha {
+    float: left;
+    width: 50%;
+}
+
+.showDay{
+    margin:2px;
+    padding: 0px;
+    background-color: white; /* Green */
+    border: 2px solid black;
+    color: black;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+}
+.showDay:hover {
+    background-color: black; /* Green */
+    color: white;
+}

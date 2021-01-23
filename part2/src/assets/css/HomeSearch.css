@@ -1,0 +1,31 @@
+.container{
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    float:center;
+    text-align: center;
+}
+
+.message-header{
+    margin-top: 55px;
+}
+
+.message{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    border-style: solid;
+    border-width: thin;
+    padding:15px;
+}
+
+.search{
+    margin-top:50px;
+}
+
+@media screen and (max-width: 800px) {
+    .message{
+        margin-left:100px;
+        margin-right:100px;
+    }
+  }

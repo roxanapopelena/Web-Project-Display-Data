@@ -1,0 +1,23 @@
+.hr{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.update_btn{
+    border:1px;
+    color: black;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    transition-duration: 0.4s;
+    }
+.update_btn:hover{
+    background-color: #5C5A5A; /* Green */
+      color: white;
+      }
+
+      .update-container{
+        margin-top:50px;
+      }

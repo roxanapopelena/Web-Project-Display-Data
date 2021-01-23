@@ -1,0 +1,12 @@
+.authors{
+    justify-content: center;
+    align-items: center;
+    float:center;
+    text-align: center;
+    margin:50px;
+    padding:5px;
+}
+
+.hr-authors{
+    border-top:1px solid #FF9A00;
+}
