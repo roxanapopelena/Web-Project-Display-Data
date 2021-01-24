@@ -37,5 +37,17 @@ enable details to be viewed<br/>
 ¬ Any authenticated user is able to view the admin page, but only users with ‘admin’ set to true
 are able to update the title of a session.<br/>
 - Homepage uses a search element to filter through available sessions <br/>
+- Design is simple and responsive including a hamburger navbar<br/>
 Screenshots:
-¬[](Screenshots/Untitled.png)
+
+![Documentation page of the API](Screenshots/Untitled.png)
+![Homepage](Screenshots/Untitled3.png)
+![Search element on homepage](Screenshots/Untitled4.png)
+![Schedule page- details hidden](Screenshots/Untitled5.png)
+![Schedule page- day chosen](Screenshots/Untitled6.png)
+![Schedule page- slot chosen](Screenshots/Untitled7.png)
+![Authors page](Screenshots/Untitled8.png)
+![Authors page- extended](Screenshots/Untitled9.png)
+![Admin page no login](Screenshots/Untitled10.png)
+![Admin page- admin loggedin](Screenshots/Untitled11.png)
+
