@@ -36,5 +36,6 @@ enable details to be viewed<br/>
 ¬ It is possible to update the title of any session.<br/>
 ¬ Any authenticated user is able to view the admin page, but only users with ‘admin’ set to true
 are able to update the title of a session.<br/>
+- Homepage uses a search element to filter through available sessions <br/>
 Screenshots:
 ¬[](Screenshots/Untitled.png)
