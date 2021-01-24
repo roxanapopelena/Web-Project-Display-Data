@@ -50,4 +50,5 @@ Screenshots:
 ![Authors page- extended](Screenshots/Untitled9.png)
 ![Admin page no login](Screenshots/Untitled10.png)
 ![Admin page- admin loggedin](Screenshots/Untitled11.png)
+![Responsive hamburger navbar](Screenshots/Untitled12.png)
 
