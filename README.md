@@ -1,5 +1,5 @@
 # Web-Project-Display-Data
-Web project that focused on the development of a web application used for displaying data for an imaginary science conference.
+Web project that focused on the development of a web application used for displaying data for an imaginary science conference.<br/>
 Frontend developed using React.js.<br/>
 The backend connects to the SQLite database using PHP.<br/>
 Using OOP principles.<br/>
@@ -36,3 +36,5 @@ enable details to be viewed<br/>
 ¬ It is possible to update the title of any session.<br/>
 ¬ Any authenticated user is able to view the admin page, but only users with ‘admin’ set to true
 are able to update the title of a session.<br/>
+Screenshots:
+¬[](Screenshots/Untitled.png)
